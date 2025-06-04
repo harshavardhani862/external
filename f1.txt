@@ -1,4 +1,9 @@
 hello
 bapatla
+<<<<<<< HEAD
 hello
 bec
+=======
+hello boys
+hello girls
+>>>>>>> fb
